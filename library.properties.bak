@@ -1,0 +1,10 @@
+name=md_FRAM
+version=0.1.0
+author=Martin Dorfner 
+maintainer=Martin Dorfner <inbox2@martin-dorfner.at>
+sentence=Driver for MD used FRAM Breakouts
+paragraph=Driver for MD used FRAM Breakouts
+category=Data Storage
+url=https://github.com/MDFreak2/md_FRAM
+architectures=*
+depends=OneWire
